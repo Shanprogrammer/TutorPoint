@@ -1,0 +1,104 @@
+.back{
+    background-image: url(images.jpg);
+    background-repeat: no-repeat;
+background-size:cover;
+overflow-x: hidden;
+}
+.cp{
+    overflow-x:hidden;
+}
+.mid{
+    margin-top: 17%;
+text-align: center;
+
+}
+.subform{
+    margin-top: 9%;
+    padding-left: 30%;
+}
+
+
+#symbol{
+    margin-left: 70px;
+}
+.middlenav{
+    margin: auti;
+padding-left: 333px ;
+color: white;
+}
+
+.lgpage{
+    float: right;
+    margin-top: 10px;
+    margin-left: 31%;
+}
+
+h2,p{
+    text-align: center;
+    
+}
+.courses{
+    background-color: rgb(201, 196, 191);
+}
+.card1 {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: rgb(206 194 194 / 0%);
+  
+   
+}
+nav a{
+    color: white;
+}
+.fc{
+color: white;
+}
+img{
+   width: 250px;
+   height: 150px;
+}
+.iconGreen{
+    color: green;
+}
+
+.head-of{
+   
+    margin:0px
+}
+.backoffooter{
+    background-color: rgb(159, 209, 23) ;
+}
+.copyright-color{
+    color: rgb(122, 126, 126);
+}
+.links-all{
+    float:right;
+    margin: auto;
+}
+.mt-1, .my-1 {
+    margin-top: .25rem!important;
+    margin-left: 5rem;
+}
+.unli{
+    margin-top: .25rem!important;
+    margin-left: 3rem;
+
+}
+.mt-12, .my-1 {
+    margin-top: .25rem!important;
+    margin-left: -1rem;
+}
+.unli1{
+    margin-top: .25rem!important;
+    margin-left: -4rem;
+
+}
+.btn {
+    
+    border-radius: 0;
+}
